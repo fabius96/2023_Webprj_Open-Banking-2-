@@ -31,7 +31,7 @@
  <img src="erd.png"/>
 
 ## 발표 PPT
- [1차_발표자료](/ppt1.pdf)
+ [1차_발표자료](/ppt1.pdf) <br/>
  [최종_발표자료](/ppt2.pdf)
 
  <img src="ppt1.png"/>
